@@ -6,34 +6,34 @@ This project demonstrates how machine learning can assist healthcare professiona
 
 📌 Project Highlights
 
-✔ End-to-End Data Science Workflow
-✔ Advanced EDA and Data Visualization
-✔ Feature Engineering for better predictive power
-✔ Dimensionality Reduction (PCA)
-✔ Machine Learning Classification (Random Forest)
-✔ Unsupervised Learning (K-Means Clustering)
-✔ Hyperparameter Optimization using GridSearchCV
-✔ Healthcare Data Analytics Application
+* End-to-End Data Science Workflow
+* Advanced EDA and Data Visualization
+* Feature Engineering for better predictive power
+* Dimensionality Reduction (PCA)
+* Machine Learning Classification (Random Forest)
+* Unsupervised Learning (K-Means Clustering)
+* Hyperparameter Optimization using GridSearchCV
+* Healthcare Data Analytics Application
 
 📊 Project Workflow
 Data Collection
-      ↓
+      -
 Data Exploration (EDA)
-      ↓
+      -
 Outlier Detection
-      ↓
+      -
 Feature Engineering
-      ↓
+      -
 Data Preprocessing
-      ↓
+      -
 Dimensionality Reduction (PCA)
-      ↓
+      -
 Machine Learning Model
-      ↓
+      -
 Model Evaluation
-      ↓
+      -
 Clustering Analysis
-      ↓
+      -
 Hyperparameter Optimization
 📂 Dataset Information
 
